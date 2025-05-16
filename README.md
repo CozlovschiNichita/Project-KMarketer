@@ -3,7 +3,7 @@ The KMarketer project will be adaptive and optimized for both desktop and mobile
 
 ## Видео
 
-[Смотреть демо-видео](img/MP4.mov)
+[Смотреть демо-видео](img/mp4Video.mp4)
 
 ## Автор
 
